@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/layout.png</file>
+        <file>images/ghostdownblue2.png</file>
+        <file>images/MPRO1.png</file>
+        <file>images/score.png</file>
+        <file>images/score_small.png</file>
+        <file>images/MPRO2.png</file>
+        <file>images/MPRO3.png</file>
+        <file>images/MPW.png</file>
+        <file>images/MPLO1.png</file>
+        <file>images/MPLO2.png</file>
+        <file>images/MPLO3.png</file>
+        <file>images/MPUO1.png</file>
+        <file>images/MPUO2.png</file>
+        <file>images/MPUO3.png</file>
+        <file>images/MPDO2.png</file>
+        <file>images/MPDO3.png</file>
+        <file>images/MPDO1.png</file>
+        <file>images/error.png</file>
+        <file>images/splash.png</file>
+        <file>images/splash_small.png</file>
+        <file>images/Apple.png</file>
+        <file>images/Orange.png</file>
+        <file>images/Cherry.png</file>
+        <file>images/layout2.png</file>
+        <file>images/layout3.png</file>
+        <file>images/layout4.png</file>
+        <file>images/layout5.png</file>
+        <file>images/Pause.png</file>
+        <file>images/Play.png</file>
+        <file>images/red-down.png</file>
+        <file>images/red-down-2.png</file>
+        <file>images/lives.png</file>
+        <file>images/lives2.png</file>
+        <file>images/lives3.png</file>
+        <file>images/trophy.png</file>
+    </qresource>
+</RCC>
